@@ -1,0 +1,2 @@
+# FourierRrepresentations
+Discrete Fourier representations approximation
